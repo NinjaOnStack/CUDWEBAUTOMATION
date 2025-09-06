@@ -1,0 +1,47 @@
+{
+  "pickupShipmentStatus": "Pending",
+  "deliveryShipmentStatus": "Pending",
+  "directDeliveryShipmentStatus": "Pending",
+  "forwarder": "360 LOGISTICS & TRANSPORTATION INC.",
+  "forwarderReferenceNumber": "Ref_00760",
+  "forwarderPRONumber": "1122334455",
+  "contactOption": "useExisting",
+  "recoveryOption": "useExisting",
+  "recoverySearchName": "Forward Air",
+  "newDescription": "New Demo Cost",
+  "shipperInformation": {
+    "locationName": "StoneRidgeDr",
+    "addressLine1": "759 S Fraser St",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80012",
+    "name": "Tamoor",
+    "phone": "+1345676545",
+    "searchName": "FORWARD AIR"
+  },
+  "costingfilepath": "cypress/uploadshipment/CudaPdf.pdf",
+  "filePath1": "cypress/uploadshipment/cuda.png",
+  "shipmentCostingChargeCode": [
+    "ATMPTDL",
+    "IN",
+    "DISP",
+    "DROP",
+    "TMAN"
+  ],
+  "shipmentChargeDescription": [
+    "Demo Cost for ATMPTDL",
+    "Demo Cost for IN",
+    "Demo Cost for DISP",
+    "Demo Cost for DROP",
+    "Demo Cost for TMAN"
+  ],
+  "shipmentCost": [
+    10.00,
+    15.00,
+    20.00,
+    30.00,
+    40.00
+  ],
+  "podName": "John Smith",
+  "refineSearchOption": "Under Review"
+}
