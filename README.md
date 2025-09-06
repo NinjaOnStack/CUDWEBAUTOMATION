@@ -1,4 +1,4 @@
-# TestAutomation
+# TestAutomation Document
 **Setup Pre-Reqs for Cypress**
 Install VS Code and Node Js Latest Version
 Create a new Repository and Clone it to your folder
